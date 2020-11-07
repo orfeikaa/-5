@@ -1,0 +1,20 @@
+C:\Users\Денис\source\repos\Lab5\Service\bin\Debug\Service.exe.config
+C:\Users\Денис\source\repos\Lab5\Service\bin\Debug\Service.exe
+C:\Users\Денис\source\repos\Lab5\Service\bin\Debug\Service.pdb
+C:\Users\Денис\source\repos\Lab5\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\Lab5\Service\obj\Debug\Service.exe
+C:\Users\Денис\source\repos\Lab5\Service\obj\Debug\Service.pdb
+C:\Users\Алиса\Desktop\Laba5\Lab5\Service\bin\Debug\Service.exe.config
+C:\Users\Алиса\Desktop\Laba5\Lab5\Service\bin\Debug\Service.exe
+C:\Users\Алиса\Desktop\Laba5\Lab5\Service\bin\Debug\Service.pdb
+C:\Users\Алиса\Desktop\Laba5\Lab5\Service\obj\Debug\Service.csprojAssemblyReference.cache
+C:\Users\Алиса\Desktop\Laba5\Lab5\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\Алиса\Desktop\Laba5\Lab5\Service\obj\Debug\Service.exe
+C:\Users\Алиса\Desktop\Laba5\Lab5\Service\obj\Debug\Service.pdb
+C:\Users\Алиса\Desktop\бипип НАСТЯ\BIPIT_5\Lab5\Service\bin\Debug\Service.exe.config
+C:\Users\Алиса\Desktop\бипип НАСТЯ\BIPIT_5\Lab5\Service\bin\Debug\Service.exe
+C:\Users\Алиса\Desktop\бипип НАСТЯ\BIPIT_5\Lab5\Service\bin\Debug\Service.pdb
+C:\Users\Алиса\Desktop\бипип НАСТЯ\BIPIT_5\Lab5\Service\obj\Debug\Service.csprojAssemblyReference.cache
+C:\Users\Алиса\Desktop\бипип НАСТЯ\BIPIT_5\Lab5\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\Алиса\Desktop\бипип НАСТЯ\BIPIT_5\Lab5\Service\obj\Debug\Service.exe
+C:\Users\Алиса\Desktop\бипип НАСТЯ\BIPIT_5\Lab5\Service\obj\Debug\Service.pdb
